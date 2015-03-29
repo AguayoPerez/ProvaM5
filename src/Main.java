@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        //afegim codi per el conflicte
         for (int i = 0; i < 2; i++) {
             if (i == 0) {
                 System.out.println("Codigo maestro");
@@ -8,4 +9,5 @@ public class Main {
             }
         }
     }
+    //afegim codi per el conflicte
 }
