@@ -7,4 +7,5 @@ public class Main {
 
         //creando conflictos
     }
+    //afegim codi per el conflicte
 }
